@@ -1,2 +1,2 @@
-# website_recaptcha
-reCAPTCHA modules for Odoo using Google reCAPTCHA API 2.0
+# websiteRecaptcha
+RECAPTCHA modules for ODOO using GOOGLE RECAPTCHA API 2.0
